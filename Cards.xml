@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cards>
+    <Card igra="mtg">
+            <Name>Helga, Skittish Seer</Name>
+            <Image>Helga, Skittish Seer</Image>
+            <Number>0217</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>3</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Clement, the Worrywort</Name>
+            <Image>Clement, the Worrywort</Image>
+            <Number>0329</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>3</Cost>
+            </CardInfo>
+         
+    </Card>
+    <Card igra="mtg">
+            <Name>Dour Port-Mage</Name>
+            <Image>Dour Port-Mage</Image>
+            <Number>0303</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>2</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Flubs, the Fool</Name>
+            <Image>Flubs, the Fool</Image>
+            <Number>0356</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>3</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Sunshower Druid</Name>
+            <Image>Sunshower Druid</Image>
+            <Number>0195</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>1</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Mistbreath Elder</Name>
+            <Image>Mistbreath Elder</Image>
+            <Number>0323</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>1</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Valley Mightcaller</Name>
+            <Image>Valley Mightcaller</Image>
+            <Number>0326</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>1</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Twenty-Toed Toad</Name>
+            <Image>Twenty-Toed Toad</Image>
+            <Number>0051</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>4</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Pollywog Prodigy</Name>
+            <Image>Pollywog Prodigy</Image>
+            <Number>0050</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>2</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="mtg">
+            <Name>Long River Lurker</Name>
+            <Image>Long River Lurker</Image>
+            <Number>0057</Number>
+            <Type>Creature</Type>
+            <CardInfo>
+                <Cost>3</Cost>
+            </CardInfo>
+    </Card>
+    <Card igra="yugioh">
+            <Name>Traptrix Trap Hole Nightmare</Name>
+            <Image>Traptrix Trap Hole Nightmare</Image>
+            <Type>Trap</Type>
+            <CardInfo>
+                <SubType>Normal</SubType>
+            </CardInfo>
+    </Card>
+    <Card igra="yugioh">
+            <Name>Traptrip Garden</Name>
+            <Image>Traptrip Garden</Image>
+            <Type>Spell</Type>
+            <CardInfo>
+                <SubType>Field</SubType>
+            </CardInfo>
+    </Card>
+    <Card igra="yugioh">
+            <Name>Traptrix Pinguicula</Name>
+            <Image>Traptrix Pinguicula</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>XYZ</SubType>
+            </CardInfo>
+    </Card>
+    <Card igra="yugioh">
+            <Name>Traptrix Atypus</Name>
+            <Image>Traptrix Atypus</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>Link</SubType>
+            </CardInfo>
+    </Card>
+    <Card igra="yugioh">
+            <Name>Traptrix Allomerus</Name>
+            <Image>Traptrix Allomerus</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>XYZ</SubType>
+            </CardInfo>
+    </Card>    
+    <Card igra="yugioh">
+            <Name>Traptrix Rafflesia</Name>
+            <Image>Traptrix Rafflesia</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>XYZ</SubType>
+            </CardInfo>
+    </Card>    
+    <Card igra="yugioh">
+            <Name>Traptrix Holeutea</Name>
+            <Image>Traptrix Holeutea</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>XYZ</SubType>
+            </CardInfo>
+    </Card>      
+    <Card igra="yugioh">
+            <Name>Traptrix Dionaea</Name>
+            <Image>Traptrix Dionaea</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>Normal</SubType>
+            </CardInfo>
+    </Card> 
+    <Card igra="yugioh">
+            <Name>Traptrix Pudica</Name>
+            <Image>Traptrix Pudica</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>Normal</SubType>
+            </CardInfo>
+    </Card>          
+    <Card igra="yugioh">
+            <Name>Traptrix Sera</Name>
+            <Image>Traptrix Sera</Image>
+            <Type>Monster</Type>
+            <CardInfo>
+                <SubType>Link</SubType>
+            </CardInfo>
+    </Card> 
+    <Card igra="pokemon">
+            <Name>Hisuian Decidueye V</Name>
+            <Image>Hisuian Decidueye V</Image>
+            <Type>Fighting</Type>
+            <CardInfo>
+                <SubType>Basic</SubType>
+            </CardInfo>
+    </Card>   
+    <Card igra="pokemon">
+            <Name>Hisuian Decidueye VSTAR</Name>
+            <Image>Hisuian Decidueye VSTAR</Image>
+            <Type>Fighting</Type>
+            <CardInfo>
+                <SubType>VSTAR</SubType>
+            </CardInfo>
+    </Card> 
+    <Card igra="pokemon">
+            <Name>Rapid Strike Urshifu V</Name>
+            <Image>Rapid Strike Urshifu V</Image>
+            <Type>Fighting</Type>
+            <CardInfo>
+                <SubType>Basic</SubType>
+            </CardInfo>
+    </Card> 
+    <Card igra="pokemon">
+            <Name>Rapid Strike Urshifu VMAX</Name>
+            <Image>Rapid Strike Urshifu VMAX</Image>
+            <Type>Fighting</Type>
+            <CardInfo>
+                <SubType>VMAX</SubType>
+            </CardInfo>
+    </Card>  
+    <Card igra="pokemon">
+            <Name>Boltund V</Name>
+            <Image>Boltund V</Image>
+            <Type>Lighthing</Type>
+            <CardInfo>
+                <SubType>Basic</SubType>
+            </CardInfo>
+    </Card> 
+    <Card igra="pokemon">
+            <Name>Mimikyu V</Name>
+            <Image>Mimikyu V</Image>
+            <Type>Psychic</Type>
+            <CardInfo>
+                <SubType>Basic</SubType>
+            </CardInfo>
+    </Card>    
+    <Card igra="pokemon">
+            <Name>Charizard ex</Name>
+            <Image>Charizard ex</Image>
+            <Type>Dark</Type>
+            <CardInfo>
+                <SubType>Stage 2</SubType>
+            </CardInfo>
+    </Card>  
+    <Card igra="pokemon">
+            <Name>Altaria-EX</Name>
+            <Image>Altaria-EX</Image>
+            <Type>Normal</Type>
+            <CardInfo>
+                <SubType>Basic</SubType>
+            </CardInfo>
+    </Card>    
+    <Card igra="pokemon">
+            <Name>Origin Forme Palkia VSTAR</Name>
+            <Image>Origin Forme Palkia VSTAR</Image>
+            <Type>Water</Type>
+            <CardInfo>
+                <SubType>VSTAR</SubType>
+            </CardInfo>
+    </Card>      
+    <Card igra="pokemon">
+            <Name>Celebi V</Name>
+            <Image>Celebi V</Image>
+            <Type>Grass</Type>
+            <CardInfo>
+                <SubType>Basic</SubType>
+            </CardInfo>
+    </Card>                          
+</Cards>
